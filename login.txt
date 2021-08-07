@@ -1,0 +1,12 @@
+								  <div id="login_frame">
+										<!--<p id="image_logo"><img src="images/templatemo_botton.jpg"></p>-->
+										<center><h1><b>Login</b></h1>
+									<!--<form method="post" action="js/login.js">	-->	 
+										<p><label class="label_input">user name</label><input type="text" id="username" class="text_field"/></p>
+											<p><label class="label_input">password</label><input type="text" id="password" class="text_field"/></p>
+										<div id="login_control">
+											<center><input type="button" id="btn_login" value="login" onclick="login();"/>
+											<a id="forget_pwd" href="">Forgot?</a>
+										</div>
+						          </form>
+								</div>
